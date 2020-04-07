@@ -3,8 +3,6 @@ Python template for using Magento BI's Import API to automate data import from a
 
 Official MBI Import API documentation can be found here: https://devdocs.magento.com/mbi/docs/import-api.html
 
-This repository is not actively maintained, and no further changes will be made.
+Before using the Import API, you must create an Import API integration in MBI and record the API key and client ID.
 
-## Create an Import API Integration in MBI
-
-Record your Client ID and Import API Key.
+This repository is _not_ actively maintained, and no further changes are anticipated.
