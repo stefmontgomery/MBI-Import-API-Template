@@ -5,4 +5,8 @@ Official MBI Import API documentation can be found here: https://devdocs.magento
 
 Before using the Import API, you must create an Import API integration in MBI and record the API key and client ID.
 
+**PLEASE NOTE:**
+
+This app is not endorsed or supported by Adobe.
+
 This repository is _not_ actively maintained, and no further changes are anticipated.
